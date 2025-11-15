@@ -8,3 +8,14 @@ C:\Users\Admin\Documents\Ubuntu\SmartTravelPlanner\Project\obj\Debug\Smart Trave
 C:\Users\Admin\Documents\Ubuntu\SmartTravelPlanner\Project\obj\Debug\Smart Travel Planning.csproj.CoreCompileInputs.cache
 C:\Users\Admin\Documents\Ubuntu\SmartTravelPlanner\Project\obj\Debug\Project.exe
 C:\Users\Admin\Documents\Ubuntu\SmartTravelPlanner\Project\obj\Debug\Project.pdb
+C:\Users\Admin\Desktop\SharedAsLink\Project\bin\Debug\Project.exe.config
+C:\Users\Admin\Desktop\SharedAsLink\Project\bin\Debug\Project.exe
+C:\Users\Admin\Desktop\SharedAsLink\Project\bin\Debug\Project.pdb
+C:\Users\Admin\Desktop\SharedAsLink\Project\obj\Debug\Smart Travel Planning.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\SharedAsLink\Project\obj\Debug\Project.exe.config
+C:\Users\Admin\Desktop\SharedAsLink\Project\obj\Debug\Project.Form1.resources
+C:\Users\Admin\Desktop\SharedAsLink\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\Admin\Desktop\SharedAsLink\Project\obj\Debug\Smart Travel Planning.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\SharedAsLink\Project\obj\Debug\Smart Travel Planning.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SharedAsLink\Project\obj\Debug\Project.exe
+C:\Users\Admin\Desktop\SharedAsLink\Project\obj\Debug\Project.pdb
